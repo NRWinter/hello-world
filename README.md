@@ -1,2 +1,3 @@
 # hello-world
-test
+
+This is a test of making an edit in the hello-world practice.
